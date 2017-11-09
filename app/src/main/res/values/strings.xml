@@ -2,6 +2,7 @@
     <string name="app_name">コクマ保育</string>
     <string name="戻る">"戻る"</string>
     <string name="送信">"送信"</string>
+    <string name="確認">"確認"</string>
 
     <string name="k1_1_text1">"パスワードを忘れてしまった時のために登録した秘密の質問を答えてください。 "</string>
 
@@ -11,5 +12,18 @@
     <string name="k6_2_text2">"新しいパスワードを入力"</string>
     <string name="k6_2_text3">"パスワードを再入力してください"</string>
     <string name="k6_3_text1">"パスワード再設定が完了しました"</string>
+
+
+    <string-array name="list">
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>10:00</item>
+    </string-array>
+
+    <string-array name="list2">
+        <item>19:00</item>
+        <item>19:30</item>
+        <item>20:00</item>
+    </string-array>
 
 </resources>
