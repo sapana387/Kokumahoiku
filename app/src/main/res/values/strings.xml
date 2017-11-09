@@ -3,7 +3,7 @@
     <string name="戻る">"戻る"</string>
     <string name="送信">"送信"</string>
 
-
+    <string name="k1_1_text1">"パスワードを忘れてしまった時のために登録した秘密の質問を答えてください。 "</string>
 
     <string name="k6_1_text1">"パスワードを忘れてしまった時のために登録した秘密の質問を答えてください。 "</string>
     <string name="k6_1_text2">"あなたが幼少期に付けられたあだ名は？"</string>
