@@ -9,6 +9,7 @@
 
     <string name="k2_2_text1">"お送り予定時間"</string>
     <string name="k2_2_text2">"お迎え予定時間"</string>
+    <string name="k2_3_text1">"以下の日程でよろしいですか？"</string>
 
     <string name="k6_1_text1">"パスワードを忘れてしまった時のために登録した秘密の質問を答えてください。 "</string>
     <string name="k6_1_text2">"あなたが幼少期に付けられたあだ名は？"</string>
