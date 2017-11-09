@@ -9,7 +9,15 @@
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="77dp"
-        tools:layout_editor_absoluteY="51dp" />
+        android:text="@string/戻る"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="389dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/決定"
+        tools:layout_editor_absoluteX="223dp"
+        tools:layout_editor_absoluteY="389dp" />
 </android.support.constraint.ConstraintLayout>
