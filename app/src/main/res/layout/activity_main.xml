@@ -28,7 +28,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.89" />
+        app:layout_constraintVertical_bias="0.738" />
 
     <EditText
         android:id="@+id/editText"
@@ -44,8 +44,8 @@
         android:layout_marginTop="8dp"
         android:layout_marginLeft="8dp"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintHorizontal_bias="0.889"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintHorizontal_bias="0.953"
+        app:layout_constraintVertical_bias="0.941" />
 
     <TextView
         android:id="@+id/textView"
@@ -61,8 +61,8 @@
         android:layout_marginRight="8dp"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="8dp"
-        app:layout_constraintHorizontal_bias="0.516"
-        app:layout_constraintVertical_bias="1.0" />
+        app:layout_constraintHorizontal_bias="0.58"
+        app:layout_constraintVertical_bias="0.74" />
 
     <TextView
         android:id="@+id/textView2"
@@ -79,7 +79,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.912" />
+        app:layout_constraintVertical_bias="0.868" />
 
     <EditText
         android:id="@+id/editText2"
@@ -96,7 +96,15 @@
         android:layout_marginLeft="8dp"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="8dp"
-        app:layout_constraintHorizontal_bias="0.384"
-        app:layout_constraintVertical_bias="0.995" />
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintVertical_bias="0.968" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID,パスワードを忘れた場合はこちら"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="440dp" />
 
 </android.support.constraint.ConstraintLayout>
