@@ -5,7 +5,7 @@
 
 
 
-    <string name="k6_1_text1">"パスワードを忘れてしまった時のために登録した秘密の質問を答えてください。"</string>
+    <string name="k6_1_text1">"パスワードを忘れてしまった時のために登録した秘密の質問を答えてください。 "</string>
     <string name="k6_1_text2">"あなたが幼少期に付けられたあだ名は？"</string>
     <string name="k6_2_text1">"本人確認ができました。新しいパスワードを入力してください"</string>
     <string name="k6_2_text2">"新しいパスワードを入力"</string>
