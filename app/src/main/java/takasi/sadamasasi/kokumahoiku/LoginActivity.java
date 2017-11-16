@@ -202,6 +202,8 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
 
     /**
      * Shows the progress UI and hides the login form.
+     * レイアウトで実装したProgressBarのアニメーションまで実装されています。
+     *また、AndroidのOSバージョンに合わせて適切な処理分けもされています。
      */
     @TargetApi(Build.VERSION_CODES.HONEYCOMB_MR2)
     private void showProgress(final boolean show) {
@@ -293,6 +295,9 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
     /**
      * Represents an asynchronous login/registration task used to authenticate
      * the user.
+     * 非同期通信処理の実装
+
+
      */
     public class UserLoginTask extends AsyncTask<Void, Void, Boolean> {
 
