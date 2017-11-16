@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/button_itizi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
@@ -37,7 +37,7 @@
         tools:layout_editor_absoluteY="302dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/button_sougei"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/k1_1_text4"

@@ -19,6 +19,6 @@
         android:layout_height="wrap_content"
         android:text="@string/k6_3_text1"
         android:textSize="24sp"
-        tools:layout_editor_absoluteX="138dp"
-        tools:layout_editor_absoluteY="133dp" />
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="131dp" />
 </android.support.constraint.ConstraintLayout>
