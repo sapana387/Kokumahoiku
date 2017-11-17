@@ -10,8 +10,7 @@ import android.widget.Button;
  * Created by arsuser on 2017/11/16.
  */
 
-public class Mypage extends AppCompatActivity
- implements View.OnClickListener {
+public class Mypage extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -19,8 +18,8 @@ public class Mypage extends AppCompatActivity
         setContentView(R.layout.k1_1_mypage);
 
 
-        Button button_iitizi = (Button) findViewById(R.id.button_itizi);
-        button_iitizi.setOnClickListener(new View.OnClickListener() {
+        Button button_itizi = (Button) findViewById(R.id.button_itizi);
+        button_itizi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Mypage.this, Sougei_hoiku.class);
@@ -40,10 +39,9 @@ public class Mypage extends AppCompatActivity
         });
     }
 
-    @Override
-    public void onClick(View v) {
 
-    }
+
+
 }
 
 
